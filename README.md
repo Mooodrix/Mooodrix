@@ -8,7 +8,7 @@ Salut ! Je suis Modrix, un passionné de développement logiciel avec une expert
 
 
 Compétences :
-- Langages de programmation
+Langages de programmation :
 - HTML
 - CSS
 - JavaScript
