@@ -1,8 +1,5 @@
 <h1 align="center">Bienvenue sur mon profil GitHub !</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Salut+!+Je+suis+Modrix;Développeur+Full-Stack+passionné;Curieux%2C+autonome+et+créatif" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -60,5 +57,3 @@
 
 ---
 
-![Snake animation](<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Salut+!+Je+suis+Modrix;Développeur+Full-Stack+passionné;Curieux,+autonome+et+créatif" alt="Typing SVG" />
-)
