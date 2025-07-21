@@ -60,4 +60,5 @@
 
 ---
 
-![Snake animation](https://github.com/Mooodrix/Mooodrix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Salut+!+Je+suis+Modrix;Développeur+Full-Stack+passionné;Curieux,+autonome+et+créatif" alt="Typing SVG" />
+)
